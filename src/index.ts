@@ -1,3 +1,3 @@
-const hello = () => {};
+import useMultistepLoader from "./hooks/useMultistepLoader";
 
-export default hello;
+export default useMultistepLoader;
